@@ -1,3 +1,15 @@
+> [!NOTE]
+> **This is an active fork maintained by [Daniel Puckett](https://github.com/DanielPuckett).**
+>
+> The original Corso project was archived by Alcionai. This fork exists because Corso remains the cornerstone of my Microsoft 365 backup strategy — backing up Exchange, OneDrive, and SharePoint to local disk. I am committed to the success and longevity of Corso as a reliable, self-hosted M365 backup solution.
+>
+> **Related projects:**
+> - [corso-analysis.md](./corso-analysis.md) — Architecture review, API risk assessment, and Teams/Chats support status
+> - [Corso-App](https://github.com/DanielPuckett/Corso-App) — Terminal UI for managing Corso snapshots (browse, export, restore, delete)
+> - [M365Group-Backup](https://github.com/DanielPuckett/M365Group-Backup) — PowerShell scripts to backup/restore M365 group configuration (membership, owners, settings) that Corso does not cover
+
+---
+
 > [!NOTE] 
 > **The Corso project is no longer actively maintained and has been archived**.
 
